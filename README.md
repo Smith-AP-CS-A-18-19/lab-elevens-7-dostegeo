@@ -34,7 +34,7 @@ Follow the instructions provided for Activity 7 in the student lab guide. This i
 |:--:|:--:|:----:|:--:|:----:|:----:|:--:|:--:|:----:|
 | J♥ | 6♣ |`null`| 2♠ |`null`|`null`| A♠ | 4♥ |`null`|
 
-   *  * Answer
+   *  * Answer - This list should contain the indices of the cards, not the cards themselves
 
 | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -57,3 +57,7 @@ public static printCards(ElevensBoard board) {
 
       * Answer:
       replaceSelectedCards
+
+## Feedback
+4.c is slightly off
+19/20
